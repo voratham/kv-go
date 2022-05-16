@@ -1,0 +1,1 @@
+go run main.go --db-location=$PWD/my.db
