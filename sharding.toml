@@ -1,0 +1,14 @@
+[[shard]]
+name = "BKK"
+idx = 0
+address = "localhost:8080"
+
+[[shard]]
+name = "CNX"
+idx = 1
+address = "localhost:8081"
+
+[[shard]]
+name = "HKT"
+idx = 2
+address = "localhost:8082"
